@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @GanrielRobot
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-GanrielRobot/GanrielRobot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @GanrielRobot and I'm  don't like soccer but i have a appreciate basketball
+print("Hello World, I'm Ganriel")
+If you like my profile, send a smile for me and receive a cookie
